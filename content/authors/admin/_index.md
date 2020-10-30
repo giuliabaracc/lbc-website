@@ -1,6 +1,6 @@
 ---
 # Display name
- title: Laboratory of Brain and Cognition
+# title: Laboratory of Brain and Cognition
 
 # Is this the primary user of the site?
 superuser: true
