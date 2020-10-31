@@ -23,9 +23,8 @@ subtitle = ""
   show_social = true
 
   # Show user's interests? (true/false)
-  show_interests = true
+  show_interests = false
   
-  show_education = true
 
 [design.background]
   # Apply a background color, gradient, or image.
