@@ -20,7 +20,7 @@
 
 [[main]]
   name = "Join the lab"
-  url = "#join"
+  url = "/content/join"
   weight = 100
 
 [[main]]
