@@ -7,7 +7,4 @@ weight = 100  # Order that this section will appear in.
 
 title = "Join the Lab"
 
-[design]
-  columns: "1"
-
 +++
