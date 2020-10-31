@@ -21,10 +21,6 @@ interests:
 - Cognition
 - Lifespan Development
 - Dementia
-- Cooking
-- Gardening
-- Parenting
-- Domesticity
 
 education:
   courses:
@@ -69,4 +65,6 @@ highlight_name: false
 user_groups:
 - Principal Investigator
 ---
+
+Cooking | Gardening | Parenting | Domesticity 
 
