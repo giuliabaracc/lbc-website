@@ -16,11 +16,15 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 # bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
-Academic interests:
+interests:
 - Network Neuroscience
 - Cognition
 - Lifespan Development
 - Dementia
+- Cooking
+- Gardening
+- Parenting
+- Domesticity
 
 education:
   courses:
@@ -30,12 +34,6 @@ education:
     institution: University of Toronto
   - course: BA 
     institution: Sarah Lawrence College
-
-Social interests:
-- Cooking
-- Gardening
-- Parenting
-- Domesticity
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
