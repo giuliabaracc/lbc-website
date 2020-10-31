@@ -1,51 +1,48 @@
 ---
 # Display name
- title: Prof. Nathan Spreng
+title: Prof. Nathan Spreng
 
 # Is this the primary user of the site?
- superuser: false
+superuser: false
 
 # Role/position
- role: Associate Professor
+role: Associate Professor
 
 # Organizations/Affiliations
- organizations:
- - name: Department of Neurology and Neurosurgery, McGill University
+organizations:
+- name: Department of Neurology and Neurosurgery, McGill University
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
 # bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
-# Academic interests:
- - Network Neuroscience
- - Cognition
- - Lifespan Development
- - Dementia
+Academic interests:
+- Network Neuroscience
+- Cognition
+- Lifespan Development
+- Dementia
 
-# education:
-   courses:
-   - course: PhD 
+education:
+  courses:
+  - course: PhD 
     institution: University of Toronto
-  #  year: 2012
-   - course: MA
+  - course: MA
     institution: University of Toronto
-   # year: 2009
-   - course: BA 
+  - course: BA 
     institution: Sarah Lawrence College
-  #  year: 2008
 
-# Social interests:
-  - Cooking
-  - Gardening
-  - Parenting
-  - Domesticity
+Social interests:
+- Cooking
+- Gardening
+- Parenting
+- Domesticity
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-# - icon: envelope
+- icon: envelope
   icon_pack: fas
   link: "mailto: nathan.spreng@mcgill.ca"  # For a direct email link, use "mailto:test@example.org".
 - icon: twitter
@@ -54,7 +51,7 @@ social:
 # - icon: google-scholar
 #  icon_pack: ai
 #  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-#- icon: github
+# - icon: github
 #  icon_pack: fab
 #  link: https://github.com/lbc-spreng
 # Link to a PDF of your resume/CV from the About widget.
@@ -71,7 +68,7 @@ highlight_name: false
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
-# user_groups:
-user_groups = ["Principal Investigator"]
+user_groups:
+- Principal Investigator
 ---
 
