@@ -12,16 +12,21 @@
   name = "People"
   url = "#people"
   weight = 20
+  
+[[main]]
+  name = "Funding"
+  url = "#funding"
+  weight = 30
 
 [[main]]
   name = "Publications"
   url = "#featured"
-  weight = 30
+  weight = 40
 
 [[main]]
   name = "Joining the lab"
   url = "#join"
-  weight = 40
+  weight = 50
 
 [[main]]
   name = "Contact"
