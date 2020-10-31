@@ -14,8 +14,8 @@ subtitle = ""
   # Choose which groups/teams of users to display.
   #   Edit `user_groups` in each user's profile to add them to one or more of these groups.
   user_groups = ["Principal Investigator",
-                 "Postdocs",
-                 "Grad Students",
+                 "Postdoctoral Researchers",
+                 "Graduate Students",
                  "Alumni"]
 
 [design]
