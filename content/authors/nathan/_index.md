@@ -9,7 +9,7 @@
  role: Associate Professor
 
 # Organizations/Affiliations
-# organizations:
+ organizations:
  - name: Department of Neurology and Neurosurgery, McGill University
   url: ""
 
