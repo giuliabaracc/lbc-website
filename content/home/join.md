@@ -7,6 +7,9 @@ weight = 100  # Order that this section will appear in.
 
 title = "Join the Lab"
 
+[design]
+  columns: "1"
+
 [content]
 We are looking for motivated individuals whose presence will be beneficial to overall lab productivity. Lab members are expected to participate and contribute in group efforts as well as being capable of working independently towards personal and lab goals. Members must be able to quickly learn the concept of experimental design, data collection, and analysis. Programming experience is not necessary but would be extremely beneficial as it is essential for this line of research.
 Applications should be sent to nathan.spreng[at]mcgill[dot]ca with the following information:
