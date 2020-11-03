@@ -8,5 +8,5 @@ weight = 110  # Order that this section will appear in.
 title = "Funding"
 +++
 
-<img src="static/media/nserc.png" width="200" /> <img src="static/media/cihr.png" width="200" /> <img src="static/media/nia.jpg" width="200" /> 
-<img src="static/media/cfref.png" width="200" /> <img src="static/media/hbhl.jpg" width="200" /> <img src="static/media/alz.png" width="200" />
+<img src="nserc.png" width="200" /> <img src="cihr.png" width="200" /> <img src="nia.jpg" width="200" /> 
+<img src="cfref.png" width="200" /> <img src="hbhl.png" width="200" /> <img src="alz.png" width="200" />
