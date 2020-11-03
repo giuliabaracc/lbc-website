@@ -27,6 +27,11 @@
   name = "Join the lab"
   url = "#join"
   weight = 100
+  
+[[main]]
+  name = "Funding"
+  url = "#funding"
+  weight = 110
 
 [[main]]
   name = "Contact"
