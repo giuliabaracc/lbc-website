@@ -8,5 +8,5 @@ weight = 110  # Order that this section will appear in.
 title = "Funding"
 +++
 
-<img src="lbc-website/static/media/nserc.png" width="200" /> <img src="lbc-website/static/media/cihr.png" width="200" /> <img src="lbc-website/static/media/nia.jpg" width="200" /> 
-<img src="lbc-website/static/media/cfref.png" width="200" /> <img src="lbc-website/static/media/hbhl.jpg" width="200" /> <img src="lbc-website/static/media/alz.png" width="200" />
+<img src="static/media/nserc.png" width="200" /> <img src="static/media/cihr.png" width="200" /> <img src="static/media/nia.jpg" width="200" /> 
+<img src="static/media/cfref.png" width="200" /> <img src="static/media/hbhl.jpg" width="200" /> <img src="static/media/alz.png" width="200" />
