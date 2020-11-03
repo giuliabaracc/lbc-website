@@ -25,6 +25,8 @@ subtitle = ""
   # Show user's interests? (true/false)
   show_interests = false
   
+  columns = "2"
+  
 
 [design.background]
   # Apply a background color, gradient, or image.
