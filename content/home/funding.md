@@ -60,7 +60,7 @@ height = "300px"
   align = "center"
 
   #overlay_color = "#333"  # An HTML color value.
-  overlay_img = "cfref.jpg"  # Image path relative to your `static/media/` folder.
+  overlay_img = "cfref.png"  # Image path relative to your `static/media/` folder.
   #overlay_filter = 0.5  # Darken the image. Value in range 0-1.
   
   [[item]]
@@ -69,7 +69,7 @@ height = "300px"
   align = "center"
 
   #overlay_color = "#333"  # An HTML color value.
-  overlay_img = "hbhl.jpg"  # Image path relative to your `static/media/` folder.
+  overlay_img = "hbhl.png"  # Image path relative to your `static/media/` folder.
   #overlay_filter = 0.5  # Darken the image. Value in range 0-1.
   
   [[item]]
@@ -78,6 +78,6 @@ height = "300px"
   align = "center"
 
   #overlay_color = "#333"  # An HTML color value.
-  overlay_img = "alz.jpg"  # Image path relative to your `static/media/` folder.
+  overlay_img = "alz.png"  # Image path relative to your `static/media/` folder.
   #overlay_filter = 0.5  # Darken the image. Value in range 0-1.
   +++
