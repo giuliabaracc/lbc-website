@@ -110,33 +110,22 @@ title = "Publications"
  
 2010
 - Spreng, R.N., Stevens, W.D., Chamberlain, J., Gilmore, A.W. & Schacter, D.L. (2010). Default network activity, coupled with the frontoparietal control network, supports goal-directed cognition. NeuroImage, 53, 303–317.
- 
-Spreng, R.N., Rosen, H., Strother, S., Black, S., Chow, T., Diehl-Schmid, J., Freedman, M., Graff-Radford, N., Hodges, J., Lipton, A., Mendez, M., Morelli, S., Miller, B. & Levine, B. (2010). Occupation attributes relate to location of atrophy in frontotemporal lobar degeneration. Neuropsychologia, 48, 3634–3641.
- 
-Spreng, R.N., Wojtowicz, M. & Grady, C. (2010). Reliable differences in brain activity between young and old adults:  A quantitative meta-analysis across multiple cognitive domains. Neuroscience & Biobehavioral Reviews, 34, 1178–1194.
- 
-Spreng, R.N. & Grady, C. (2010). Patterns of brain activity supporting autobiographical memory, prospection and theory-of-mind and their relationship to the default mode network. Journal of Cognitive Neuroscience, 22, 1112–1123.
+- Spreng, R.N., Rosen, H., Strother, S., Black, S., Chow, T., Diehl-Schmid, J., Freedman, M., Graff-Radford, N., Hodges, J., Lipton, A., Mendez, M., Morelli, S., Miller, B. & Levine, B. (2010). Occupation attributes relate to location of atrophy in frontotemporal lobar degeneration. Neuropsychologia, 48, 3634–3641.
+- Spreng, R.N., Wojtowicz, M. & Grady, C. (2010). Reliable differences in brain activity between young and old adults:  A quantitative meta-analysis across multiple cognitive domains. Neuroscience & Biobehavioral Reviews, 34, 1178–1194.
+- Spreng, R.N. & Grady, C. (2010). Patterns of brain activity supporting autobiographical memory, prospection and theory-of-mind and their relationship to the default mode network. Journal of Cognitive Neuroscience, 22, 1112–1123.
  
 2009
-Spreng, R.N., Mar, R.A. & Kim, A.S.N. (2009). The common neural basis of autobiographical memory, prospection, navigation, theory of mind and the default mode: A quantitative meta-analysis. Journal of Cognitive Neuroscience, 21, 489–510.
- 
-Spreng, R.N., McKinnon, M.C., Mar, R.A. & Levine B. (2009). The Toronto Empathy Questionnaire: Scale development and initial validation of a factor-analytic solution to multiple empathy measures. Journal of Personality Assessment, 91, 62–71.
+- Spreng, R.N., Mar, R.A. & Kim, A.S.N. (2009). The common neural basis of autobiographical memory, prospection, navigation, theory of mind and the default mode: A quantitative meta-analysis. Journal of Cognitive Neuroscience, 21, 489–510.
+- Spreng, R.N., McKinnon, M.C., Mar, R.A. & Levine B. (2009). The Toronto Empathy Questionnaire: Scale development and initial validation of a factor-analytic solution to multiple empathy measures. Journal of Personality Assessment, 91, 62–71.
  
 2006
-Spreng, R.N. & Levine, B. (2006). The temporal distribution of past and future autobiographical events across the lifespan.  Memory & Cognition, 34, 1644–1651.
- 
+- Spreng, R.N. & Levine, B. (2006). The temporal distribution of past and future autobiographical events across the lifespan.  Memory & Cognition, 34, 1644–1651.
+-------------
 Book Chapters
- 
-Spreng, R.N., Turner, G.R. (2019). Structure and function of the aging brain. In Samanez-Larkin, G. (Ed.) The Aging Brain. Washington DC: American Psychological Association.
- 
-DuPre, E. & Spreng, R.N. (2018). ​Rumination is a sticky form of spontaneous thought​. In Fox, K. C. R. and Christoff, K., eds. The Oxford Handbook of Spontaneous Thought: Mind-wandering, Creativity, Dreaming, and Clinical Conditions. New York: Oxford University Press.
- 
-Andrews-Hanna, J.R., Fox, K.C.R., Irving, Z.C., Spreng, R.N. & Christoff, K. (2018). The neuroscience of spontaneous thought: An evolving, interdisciplinary field. In Fox, K. C. R. and Christoff, K., eds. The Oxford Handbook of Spontaneous Thought: Mind-wandering, Creativity, Dreaming, and Clinical Conditions. New York: Oxford University Press.
- 
-Spreng, R.N., Shoemaker, L. & Turner. G.R. (2017). Executive functions and neurocognitive aging. In Goldberg, E, ed. Executive functions in health and disease. Academic Press: Elsevier, pp. 169–196.
- 
-Laurita, A.C. & Spreng, R.N. (2017). The hippocampus and social cognition. In D.E. Hannula & M.C. Duff (Eds). Hippocampus from Cells to Systems: Structure, Connectivity, and Functional Contributions to Memory and Flexible Cognition. New York, NY: Springer, pp. 537–558.
- 
-Szpunar, K.K., Spreng, R.N., & Schacter, D.L. (2016). Toward a taxonomy of future thinking. In Michaelian, K., Klein, S.B. & Szpunar, K.K. (Eds). Seeing the future: Theoretical perspectives on future-oriented mental time travel. Oxford: Oxford University Press, pp. 21–35.
- 
-Spreng, R.N. & Andrews-Hanna, J.R. (2015). The default network and social cognition. In A.W. Toga (Ed), Brain Mapping: An Encyclopedic Reference. Academic Press: Elsevier, pp. 165–169.
+- Spreng, R.N., Turner, G.R. (2019). Structure and function of the aging brain. In Samanez-Larkin, G. (Ed.) The Aging Brain. Washington DC: American Psychological Association.
+- DuPre, E. & Spreng, R.N. (2018). ​Rumination is a sticky form of spontaneous thought​. In Fox, K. C. R. and Christoff, K., eds. The Oxford Handbook of Spontaneous Thought: Mind-wandering, Creativity, Dreaming, and Clinical Conditions. New York: Oxford University Press.
+- Andrews-Hanna, J.R., Fox, K.C.R., Irving, Z.C., Spreng, R.N. & Christoff, K. (2018). The neuroscience of spontaneous thought: An evolving, interdisciplinary field. In Fox, K. C. R. and Christoff, K., eds. The Oxford Handbook of Spontaneous Thought: Mind-wandering, Creativity, Dreaming, and Clinical Conditions. New York: Oxford University Press.
+- Spreng, R.N., Shoemaker, L. & Turner. G.R. (2017). Executive functions and neurocognitive aging. In Goldberg, E, ed. Executive functions in health and disease. Academic Press: Elsevier, pp. 169–196.
+- Laurita, A.C. & Spreng, R.N. (2017). The hippocampus and social cognition. In D.E. Hannula & M.C. Duff (Eds). Hippocampus from Cells to Systems: Structure, Connectivity, and Functional Contributions to Memory and Flexible Cognition. New York, NY: Springer, pp. 537–558.
+- Szpunar, K.K., Spreng, R.N., & Schacter, D.L. (2016). Toward a taxonomy of future thinking. In Michaelian, K., Klein, S.B. & Szpunar, K.K. (Eds). Seeing the future: Theoretical perspectives on future-oriented mental time travel. Oxford: Oxford University Press, pp. 21–35.
+- Spreng, R.N. & Andrews-Hanna, J.R. (2015). The default network and social cognition. In A.W. Toga (Ed), Brain Mapping: An Encyclopedic Reference. Academic Press: Elsevier, pp. 165–169.
