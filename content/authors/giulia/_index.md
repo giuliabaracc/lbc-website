@@ -42,9 +42,9 @@ social:
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/giuliaabaracc
-#- icon: google-scholar
- # icon_pack: ai
-#  link: https://scholar.google.com/citations?user=ubfgBP4AAAAJ&hl=it&oi=ao
+- icon: google-scholar
+  icon_pack: ai
+  link: https://scholar.google.com/citations?user=ukWtjk0AAAAJ&hl=it
 - icon: github
   icon_pack: fab
   link: https://github.com/giuliabaracc
