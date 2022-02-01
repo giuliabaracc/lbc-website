@@ -9,7 +9,7 @@ title = "Alumni"
 
 +++
 
-- Dr. Roni Setton (MA & PhD student 2017-2021, Cornell & McGill Univeristies)
+- Dr. Roni Setton (MA & PhD student 2017-2021, Cornell & McGill Universities)
 - Amber Lockrow (MA student 2017-2021, Cornell & McGill Universities)
 - Dr. Taylor Schmitz (Research Associate, 2017-2018)
 - Dr. Michael A. Ferguson (Postdoctoral Fellow, 2014-2017, Cornell University)
