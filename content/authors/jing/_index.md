@@ -6,7 +6,7 @@ title: Jing Zhou
 superuser: false
 
 # Role/position
-role: PhD candidate
+role: PhD student
 
 # Organizations/Affiliations
 organizations:
@@ -17,11 +17,18 @@ organizations:
 # bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-
+- Quantitative Susceptibility Mapping (QSM)
+- Cognitive Neuroscience
+- Aging
+- Alzheimer's disease
+- Memory
 
 education:
   courses:
-
+  - course: MSc
+    institution: University of Electronic Science and Technology of China 
+  - course: BSc 
+    institution: University of South China 
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -52,4 +59,4 @@ user_groups:
 - Graduate Students
 ---
  
-
+Badminton | Film | Traveling
