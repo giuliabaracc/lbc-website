@@ -18,7 +18,8 @@ organizations:
 
 interests:
 - Network neuroscience
-- Brain variability
+- Macroscale brain dynamics
+- BOLD signal variability
 - Multivariate modeling
 - Healthy aging
 - Alzheimer's disease
@@ -65,5 +66,5 @@ user_groups:
 - Graduate Students
 ---
 
-Über-avid runner | Amateur triathlete | Wanderer | Lovey-dovey reader | Singer
+Über-avid runner | Amateur cyclist | Science communicator | Art & Music aficionada | Social animal
 
