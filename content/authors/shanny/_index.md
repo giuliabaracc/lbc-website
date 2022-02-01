@@ -38,9 +38,9 @@ social:
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/ShannyFoo
-#- icon: google-scholar
- # icon_pack: ai
-#  link: https://scholar.google.com/citations?user=ubfgBP4AAAAJ&hl=it&oi=ao
+- icon: google-scholar
+  icon_pack: ai
+  link: https://scholar.google.com/citations?hl=it&user=4yDn5LgAAAAJ
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
