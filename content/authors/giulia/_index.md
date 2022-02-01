@@ -44,7 +44,7 @@ social:
   link: https://twitter.com/giuliaabaracc
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.com/citations?user=ukWtjk0AAAAJ&hl=it
+  link: https://scholar.google.com/citations?hl=en&user=ukWtjk0AAAAJ
 - icon: github
   icon_pack: fab
   link: https://github.com/giuliabaracc
