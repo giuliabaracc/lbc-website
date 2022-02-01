@@ -39,7 +39,7 @@ social:
   link: https://twitter.com/MGirnNeuro
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.com/citations?user=ubfgBP4AAAAJ&hl=it&oi=ao
+  link: https://scholar.google.com/citations?hl=en&user=ubfgBP4AAAAJ
 # - icon: github
 #  icon_pack: fab
 #  link: https://github.com/lbc-spreng
