@@ -9,9 +9,9 @@ title = "Alumni"
 
 +++
 
-- Roni Setton (MA, PhD student 2017-2021, Cornell and McGill Univeristies)
-- Amber Lockrow (MA student 2017-2021, Cornell and McGill Universities)
-- Taylor Schmitz (Research Associate, 2017-2018)
-- Michael A. Ferguson (Postdoctoral Fellow, 2014-2017, Cornell University)
-- Anne Laurita (PhD, 2017, Cornell University)
+- Dr. Roni Setton (MA & PhD student 2017-2021, Cornell & McGill Univeristies)
+- Amber Lockrow (MA student 2017-2021, Cornell & McGill Universities)
+- Dr. Taylor Schmitz (Research Associate, 2017-2018)
+- Dr. Michael A. Ferguson (Postdoctoral Fellow, 2014-2017, Cornell University)
+- Dr. Anne Laurita (PhD, 2017, Cornell University)
 - Elizabeth DuPre (MA, 2016, Cornell University)
