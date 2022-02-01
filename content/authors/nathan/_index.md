@@ -16,12 +16,6 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 # bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
-interests:
-- Network Neuroscience
-- Cognition
-- Lifespan Development
-- Dementia
-
 education:
   courses:
   - course: PhD 
@@ -30,6 +24,12 @@ education:
     institution: University of Toronto
   - course: BA 
     institution: Sarah Lawrence College
+
+interests:
+- Network Neuroscience
+- Cognition
+- Lifespan Development
+- Dementia
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -66,5 +66,5 @@ user_groups:
 - Principal Investigator
 ---
 
-Cooking | Gardening | Parenting | Domesticity 
+Cooking | Gardening | Parenting 
 
