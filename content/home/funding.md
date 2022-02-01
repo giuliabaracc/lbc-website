@@ -9,6 +9,6 @@ title = "Funding"
 +++
 - NSERC
 - CIHR
-- NIA/NIA
+- NIH/NIA
 - HBHL/CFREF
 - Alzheimer’s Association
