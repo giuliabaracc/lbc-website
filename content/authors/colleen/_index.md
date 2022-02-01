@@ -35,7 +35,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: "mailto: collhugh@indiana.edu"  # For a direct email link, use "mailto:test@example.org".
+  link: "mailto: colleen.hughes@mail.mcgill.ca"  # For a direct email link, use "mailto:test@example.org".
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/Colleen_H15
