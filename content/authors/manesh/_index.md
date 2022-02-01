@@ -61,5 +61,5 @@ user_groups:
 - Graduate Students
 ---
 
-Part-time life coach | Youtuber and popular science content creator | Meditator and yogi | Guitarist 
+Psychedelic research consultant | Youtuber and popular science content creator | Avid non-fiction reader | Meditator and yogi
 
