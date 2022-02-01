@@ -44,7 +44,7 @@ social:
   link: https://twitter.com/L_MwilambweT
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.com/citations?user=XZiF7vMAAAAJ&hl=it&oi=ao
+  link: https://scholar.google.com/citations?hl=en&user=XZiF7vMAAAAJ
 # - icon: github
 #  icon_pack: fab
 #  link: https://github.com/lbc-spreng
