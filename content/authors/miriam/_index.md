@@ -17,10 +17,10 @@ organizations:
 # bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-- Alzheimer's disease
-- Structural and functional neuroimaging
-- Macroscale brain dynamics
-- Network neuroscience
+- Alzheimer's Disease
+- Structural and Functional Neuroimaging
+- Macroscale Brain Dynamics
+- Network Neuroscience
 - Cognition
 
 education:
