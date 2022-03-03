@@ -9,7 +9,7 @@ title = "Publications"
 
 +++
 2022
-- Setton, R., Mwilambwe-Tshilobo, L., Girn, M., Lockrow, A. W., Baracchini, G., Hughes, C., . . . Spreng, R. N. (2022). Age differences in the functional architecture of the human brain. Cerebral Cortex. doi:10.1093/cercor/bhac056 {{% staticref "uploads/Setton_etal_CerCor_PREPRINT_2022.pdf" "newtab" %}}pdf{{% /staticref %}}
+- Setton, R., Mwilambwe-Tshilobo, L., Girn, M., Lockrow, A. W., Baracchini, G., Hughes, C., . . . Spreng, R. N. (2022). Age differences in the functional architecture of the human brain. Cerebral Cortex. doi:10.1093/cercor/bhac056 {{% staticref "uploads/Setton_etal_CerCor_2022.pdf" "newtab" %}}pdf{{% /staticref %}}
 - Kantarovich, K., Mwilambwe-Tshilobo, L., Fernández-Cabello, S., Setton, R., Baracchini, G., Lockrow, A. W., . . . Turner, G. R. (2022). White matter lesion load is associated with lower within- and greater between- network connectivity across older age. Neurobiology of Aging, 112, 170-180. doi:https://doi.org/10.1016/j.neurobiolaging.2022.01.005 {{% staticref "uploads/Kantarovich_etal_NBA_2022.pdf" "newtab" %}}pdf{{% /staticref %}}
 - Pehlivanoglu, D., Lin, T., Lighthall, N. R., Wilson, R. C., Turner, G. R., Spreng, R. N., & Ebner, N. C. (2022, January 11). Facial Trustworthiness Perceptions Across the Adult Lifespan. doi:https://doi.org/10.31234/osf.io/rknu2 {{% staticref "uploads/Pehlivanoglu_etal_PsyArXiv_2022.pdf" "newtab" %}}pdf{{% /staticref %}}
 - Justine, H., Golia, S., Ross, M., Kelly, S., Sylvia, C., Yanjun, W., . . . Bratislav, M. (2022). Nature Portfolio. doi:10.21203/rs.3.rs-1040925/v1 {{% staticref "uploads/Justine_etal_NatureProfolioPREPRINT1_2022.pdf" "newtab" %}}pdf{{% /staticref %}}
