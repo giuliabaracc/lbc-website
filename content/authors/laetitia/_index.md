@@ -18,9 +18,9 @@ organizations:
 
 interests:
 - Loneliness
-- Social Networks
-- Functional connectivity
-- Healthy aging
+- Social Cognition
+- Connectomics
+- Healthy Aging
 
 education:
   courses:
