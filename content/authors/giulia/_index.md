@@ -19,7 +19,7 @@ organizations:
 interests:
 - Connectomics
 - Macroscale Brain Dynamics
-- BOLD signal variability
+- BOLD Signal Variability
 - Multivariate Modeling
 - Healthy Aging
 - Alzheimer's Disease
