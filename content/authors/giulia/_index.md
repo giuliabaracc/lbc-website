@@ -17,12 +17,12 @@ organizations:
 # bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-- Network neuroscience
-- Macroscale brain dynamics
+- Connectomics
+- Macroscale Brain Dynamics
 - BOLD signal variability
-- Multivariate modeling
-- Healthy aging
-- Alzheimer's disease
+- Multivariate Modeling
+- Healthy Aging
+- Alzheimer's Disease
 
 education:
   courses:
@@ -66,5 +66,5 @@ user_groups:
 - Graduate Students
 ---
 
-Über-avid runner | Amateur cyclist | Science communicator | Art & Music aficionada | Social animal
+Über-avid runner & cyclist | Science communicator | Art & Music aficionada
 
