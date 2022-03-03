@@ -20,7 +20,7 @@ interests:
 - Quantitative Susceptibility Mapping (QSM)
 - Cognitive Neuroscience
 - Aging
-- Alzheimer's disease
+- Alzheimer's Disease
 - Memory
 
 education:
