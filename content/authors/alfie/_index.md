@@ -17,9 +17,9 @@ organizations:
 # bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-- Quantitative structural MRI
-- Alzheimer's disease
-- Long-term memory & accelerated long-term forgetting
+- Quantitative Structural MRI
+- Alzheimer's Disease
+- Long-term Memory & Accelerated Long-term Forgetting
 
 education:
   courses:
