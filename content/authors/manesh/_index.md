@@ -17,9 +17,9 @@ organizations:
 # bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-- Default-mode network organization, dynamics and role in cognition
-- Large-scale brain mechanisms underlying psychedelics drugs
-- Internally-directed cognition
+- Default-mode Network Organization, Dynamics and Role in Cognition
+- Large-scale Brain Mechanisms Underlying Psychedelics Drugs
+- Internally-directed Cognition
 
 education:
   courses:
