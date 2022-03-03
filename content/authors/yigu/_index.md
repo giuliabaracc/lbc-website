@@ -18,9 +18,9 @@ organizations:
 
 interests:
 - Alzheimer's disease
-- Default network changes in relationships to pharmaceuticals 
-- Cognition & behaviour
-- Structure-function relationships
+- Default Network Changes in relationships to pharmaceuticals 
+- Cognition & Behaviour
+- Structure-Function Relationships
 
 education:
   courses:
